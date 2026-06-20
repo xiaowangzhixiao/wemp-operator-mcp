@@ -15,8 +15,8 @@ through `mcporter`.
 
 ## Languages
 
-- English: this README, [docs/en](docs/en/README.md)
-- 简体中文：[中文 README](docs/zh/README.md)，[中文文档](docs/zh/README.md)
+- English: this README
+- 简体中文：[中文 README](../zh/README.md)，[中文文档](../zh/README.md)
 
 ## Why One Repository
 
@@ -283,10 +283,10 @@ That local config is not used in MCP context.
 
 ## Deployment Guides
 
-- [Docker deployment guide](docs/en/deployment.md)
-- [Nginx reverse proxy example](deploy/nginx.example.conf)
-- [Skill setup guide](docs/en/skill-setup.md)
-- [Security notes](docs/en/security.md)
+- [Docker deployment guide](deployment.md)
+- [Nginx reverse proxy example](../../deploy/nginx.example.conf)
+- [Skill setup guide](skill-setup.md)
+- [Security notes](security.md)
 
 ## Security Defaults
 
