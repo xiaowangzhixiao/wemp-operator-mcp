@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信公众号 MCP 运营"
+  short_description: "通过 mcporter 调用公众号运营 MCP 服务"
+  default_prompt: "Use $wemp-operator-mcp to query or operate my WeChat official account through MCP."

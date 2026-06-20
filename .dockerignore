@@ -1,0 +1,12 @@
+.git
+.DS_Store
+node_modules
+npm-debug.log*
+.env
+.env.*
+config/wemp.json
+data
+docs
+test
+.git
+.github
